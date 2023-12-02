@@ -1,4 +1,4 @@
-package com.juaracoding.ifjava;
+package com.juaracoding.week1.quiz.ifjava;
 
 import java.util.Scanner;
 

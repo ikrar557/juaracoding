@@ -1,5 +1,4 @@
-package com.juaracoding.ifjava;
-import java.util.Scanner;
+package com.juaracoding.week1.quiz.ifjava;
 
 public class oddEven {
     public static void main(String [] args){

@@ -1,4 +1,4 @@
-package com.juaracoding.quiz;
+package com.juaracoding.week1.quiz.quiz;
 import java.util.Scanner;
 
 // Soal : Buatkan program input angka bebas, tetapi ketika input angka 0 keluar dari program, gunakan keyword break.

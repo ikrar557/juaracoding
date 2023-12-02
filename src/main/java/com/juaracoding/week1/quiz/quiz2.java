@@ -1,4 +1,4 @@
-package com.juaracoding.quiz;
+package com.juaracoding.week1.quiz.quiz;
 import java.util.Scanner;
 // Input: Java Juara
 // Result: - 10

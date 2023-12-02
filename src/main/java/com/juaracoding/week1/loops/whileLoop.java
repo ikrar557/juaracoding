@@ -1,5 +1,4 @@
-package com.juaracoding.loops;
-import  java.util.Scanner;
+package com.juaracoding.week1.quiz.loops;
 
 public class whileLoop {
     public static void main(String[] args){

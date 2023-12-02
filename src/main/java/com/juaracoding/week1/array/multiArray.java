@@ -1,4 +1,4 @@
-package com.juaracoding.array;
+package com.juaracoding.week1.quiz.array;
 
 public class multiArray {
     public static void main(String[] args) {

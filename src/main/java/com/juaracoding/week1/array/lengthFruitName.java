@@ -1,16 +1,12 @@
-package com.juaracoding.quiz;
-// Buatkan program cari kata terpanjang dari data buah berikut
-// String[] buah = {"nanas","apel","jeruk","pisang","semangka"};
+package com.juaracoding.week1.quiz.array;
 
-public class quiz5 {
+public class lengthFruitName {
     public static void main(String[] args) {
-        // Inisialisasi array
         String[] buah = {"nanas","apel","jeruk","pisang","semangka"};
 
         String namaTerpanjang = "";
 
         for (String namaBuah : buah) {
-            // Menggunakan operator ternary atau short hand dari simple if else untuk mencari nama terpanjang.
             namaTerpanjang = namaBuah.length() > namaTerpanjang.length() ? namaBuah : namaTerpanjang;
         }
 
