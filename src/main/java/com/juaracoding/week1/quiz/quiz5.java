@@ -1,4 +1,4 @@
-package com.juaracoding.week1.quiz.quiz;
+package com.juaracoding.week1.quiz;
 // Buatkan program cari kata terpanjang dari data buah berikut
 // String[] buah = {"nanas","apel","jeruk","pisang","semangka"};
 

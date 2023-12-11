@@ -1,4 +1,4 @@
-package com.juaracoding.week1.quiz.ifjava;
+package com.juaracoding.week1.ifjava;
 
 public class tax {
 

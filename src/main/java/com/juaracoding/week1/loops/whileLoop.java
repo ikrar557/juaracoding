@@ -1,4 +1,4 @@
-package com.juaracoding.week1.quiz.loops;
+package com.juaracoding.week1.loops;
 
 public class whileLoop {
     public static void main(String[] args){
